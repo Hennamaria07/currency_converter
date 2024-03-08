@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* .container {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../images/_d8ed9d9f-dcc8-4f03-a34b-ad72e0effbb1.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.row {
+  background-color: rgba(0, 41, 107, 0.633);
+  backdrop-filter: blur(2px);
+} */
